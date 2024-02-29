@@ -13,7 +13,7 @@ export const FirstStory = {
 
 export const Primary = {
     args: {
-        children: "CLick Me"
+        children: "Primary btn"
     },
 };
 

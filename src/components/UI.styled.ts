@@ -1,7 +1,8 @@
 import styled from "styled-components";
+/*import { IBtnProps } from "/index";*/
 
 export const Base = styled.button`
-background: grey;
+background: pink;
 min-width: 100px;
 min-height: 25px;
 border: 1px solid grey;

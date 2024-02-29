@@ -16,3 +16,4 @@ export default function Button({varient, isDisabled, children}: IBtnProps ) {
         return <UI.Danger isDisabled={isDisabled}>{children}</UI.Danger>;
     }
 };
+
